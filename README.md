@@ -1,1 +1,1 @@
-https://github.com/MrLargha/posmotri_v_okno
+Проект для практики с контейнерами в ИТМО
