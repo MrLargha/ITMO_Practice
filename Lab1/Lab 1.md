@@ -1,4 +1,4 @@
-1. Берем и арендуем VDS на timeweb.com (не реклама, но ребята они классные) [screenshot](Lab1/Pasted image 20240912025339.png)
+1. Берем и арендуем VDS на timeweb.com (не реклама, но ребята они классные) ![screenshot](./Lab1/Pasted image 20240912025339.png)
 2. Настраиваем SSH-ключи для подключения с компьютера и подключаемся 
    [screenshot](Pasted image 20240911155520.png)
 3. Создаем нового пользователя и выдаем его пароль[screenshot](Pasted image 20240911155935.png)
